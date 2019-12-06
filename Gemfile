@@ -5,7 +5,7 @@ ruby "2.6.3"
 
 gem "rails", "~> 5.2.3"
 gem "mysql2", ">= 0.4.4", "< 0.6.0" 
-gem "puma", "~> 3.11"
+gem "puma", "~> 3.12"
 gem "bootstrap-sass", "~> 3.4.1"
 gem "font-awesome-sass", "~> 4.2.0"
 gem "sassc-rails", ">= 2.1.0"
